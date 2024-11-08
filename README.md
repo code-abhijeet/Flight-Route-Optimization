@@ -24,7 +24,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/harshdew02/Crack_illusion.git
+  git clone https://github.com/code-abhijeet/Flight-Route-Optimization
 ```
 
 Go to the project directory
