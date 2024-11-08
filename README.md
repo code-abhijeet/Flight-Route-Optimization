@@ -1,8 +1,5 @@
 
 # Team: Crack_illusion
-
-Aerothon 6.0 Team Project on 25/05/24
-
 - PS1: Enhancing Flight Navigation Mechanism for Optimal Route Planning and Risk Mitigation
 
 - Overview: We have developed a Next.js web application dashboard for pilots and technical heads, allowing them to visualize and respond to our backend algorithm for optimal route planning. We use the Leaflet framework for map visualization and have implemented our REST APIs on a Node server.
@@ -10,8 +7,6 @@ Aerothon 6.0 Team Project on 25/05/24
 ## Documentation
 
 [Documentation Google Drive for PPT and Algorithm doc](https://drive.google.com/drive/folders/1YYiEG_gPXsqS6dFYO92XLRIDDMB4PGME?usp=drive_link)
-
-[Backend Code Link: ](https://github.com/danujkumar/aerothon_backend)
 
 ## Tech Stack
 
