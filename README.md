@@ -30,7 +30,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Crack_illusion
+  cd Flight-Route-Optimization
 ```
 
 Install dependencies
